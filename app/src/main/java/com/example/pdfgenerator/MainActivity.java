@@ -4,14 +4,6 @@ import androidx.activity.result.ActivityResultCallback;
 import androidx.activity.result.ActivityResultLauncher;
 import androidx.activity.result.contract.ActivityResultContracts;
 import androidx.appcompat.app.AppCompatActivity;
-
-import android.content.Intent;
-import android.graphics.Canvas;
-import android.graphics.Color;
-import android.graphics.Paint;
-import android.net.Uri;
-import android.os.Environment;
-import android.provider.MediaStore;
 import android.widget.Button;
 import android.os.Bundle;
 import android.graphics.pdf.PdfDocument;
